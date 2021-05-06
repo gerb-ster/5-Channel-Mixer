@@ -1,3 +1,3 @@
-# Project Name
+# 5 Channel Mixer
 
-some description about this project goes here.
+This one is not that special, it’s just a simple 5 channel mixer build around a TL074 and a TL072, very useful though.
